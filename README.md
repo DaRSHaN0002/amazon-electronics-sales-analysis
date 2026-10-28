@@ -337,44 +337,6 @@ This project demonstrates practical skills in:
 
 ---
 
-# ▶️ How to Run the Project
-
-### 1. Clone the repository
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
-
-### 2. Navigate to the project
-
-```bash
-cd amazon-electronics-sales-analysis
-```
-
-### 3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Open Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```text
-notebooks/amazon_electronics_sales_analysis.ipynb
-```
-
-### 5. Run the notebook
-
-Run the cells sequentially to reproduce the analysis and visualizations.
-
----
-
 # 📚 Future Improvements
 
 Possible improvements for a future version include:
@@ -394,7 +356,7 @@ Possible improvements for a future version include:
 
 **Darshan Maurya**
 
-B.Tech — Computer Science & Engineering
+B.E. — Computer Science & Engineering
 
 ### Areas of Interest
 
